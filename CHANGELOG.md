@@ -2,6 +2,11 @@
 
 All notable public changes to this project are documented here.
 
+## 0.1.0-rc.4 - 2026-08-27
+
+- Declared the MIT license in the skill frontmatter for Agent Skills publication tools.
+- Updated installation examples to pin this release candidate.
+
 ## 0.1.0-rc.3 - 2026-08-27
 
 - Added end-to-end guidance for new and existing Stream Deck plugins.
