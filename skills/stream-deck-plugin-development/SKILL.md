@@ -1,6 +1,7 @@
 ---
 name: stream-deck-plugin-development
 description: Create, develop, test, troubleshoot, package, and certify Elgato Stream Deck plugins that use the Node.js SDK. Use for Stream Deck repository or runtime work involving manifests, actions, keys, dials, Neo, Property Inspectors, settings, profiles, animation, Marketplace validation, or causal QA. Do not use for general TypeScript or third-party API work unless it changes Stream Deck behavior.
+license: MIT
 ---
 
 # Stream Deck plugin development

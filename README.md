@@ -12,7 +12,7 @@ Install the skill from GitHub with the [`skills`](https://skills.sh/) CLI:
 
 ```bash
 npx --yes skills@1.5.23 add \
-  https://github.com/calebvbi/stream-deck-plugin-development/tree/v0.1.0-rc.3 \
+  https://github.com/calebvbi/stream-deck-plugin-development/tree/v0.1.0-rc.4 \
   --skill stream-deck-plugin-development
 ```
 
@@ -20,7 +20,7 @@ Install globally for selected agents:
 
 ```bash
 npx --yes skills@1.5.23 add \
-  https://github.com/calebvbi/stream-deck-plugin-development/tree/v0.1.0-rc.3 \
+  https://github.com/calebvbi/stream-deck-plugin-development/tree/v0.1.0-rc.4 \
   --skill stream-deck-plugin-development \
   --agent claude-code cursor codex grok \
   --global
